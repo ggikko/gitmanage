@@ -1,0 +1,2 @@
+# gitmanage
+with git flow
